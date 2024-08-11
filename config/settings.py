@@ -90,7 +90,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': "maxway_db",
         'USER': "maxway_admin",
-        'PASSWORD': 'root',  # Enter your own password
+        'PASSWORD': '',  # Enter your own password
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
